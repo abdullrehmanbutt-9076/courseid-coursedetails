@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse Android - Jetpack Compose Course App",
+  "description": "Complete Android mobile application built with Kotlin, Jetpack Compose, Material 3, and Navigation Compose featuring dynamic course routing, session management, and interactive device simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
